@@ -16,3 +16,5 @@ class Presidents(models.Model):
 
 class Capital(models.Model):
     name = models.CharField(max_length=200)
+
+
